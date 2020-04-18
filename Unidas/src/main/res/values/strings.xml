@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Página Inicial</string>
+    <string name="menu_gallery">Meus Contatos</string>
+    <string name="menu_slideshow">Histórico</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="msg_help">Peça ajuda a qualquer momento</string>
+    <string name="msg_cadastro_contatos">Cadastre até três números de whatsapp, enviaremos sua localização em tempo real</string>
+    <string name="msg_info">Para denunciar basta segurar o botão de diminuir o volume do seu celular em qualquer momento.
+        Não será necessário estar dentro do U.N.I.D.A.S</string>
+    <string name="msg_botao_cadastro">Clique no botão ao lado para cadastrar</string>
+
+
+
+
+
+    <string name="phone_number">996897794</string>
+
+</resources>
